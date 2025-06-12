@@ -3,7 +3,7 @@
 % For licensing information see
 %                http://www.cs.utexas.edu/users/flame/license.html 
 %                                                                                 
-% Programmed by: Anni Liu
+% Programmed by: SciComp8
 
 % Interpret the function: http://edx-org-utaustinx.s3.amazonaws.com/UT501x/PictureFLAME/PictureFLAME.html
 
