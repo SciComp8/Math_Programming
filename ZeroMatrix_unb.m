@@ -5,8 +5,6 @@
 %                                                                                 
 % Programmed by: SciComp8
 
-% Interpret the function: http://edx-org-utaustinx.s3.amazonaws.com/UT501x/PictureFLAME/PictureFLAME.html
-
 function [ A_out ] = ZeroMatrix_unb( A )
 
 
